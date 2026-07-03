@@ -6,6 +6,10 @@ An Android application that automatically recognizes and extracts essential info
 
 The application is designed to support both **Old** and **New** Malaysian RC formats, enabling users to quickly scan vehicle registration documents and automatically retrieve key information with minimal manual effort.
 
+## 🎥 Demo Video
+
+https://github.com/mandeepSingh-Dev/OCR-Vehicle-Data-Extractor/blob/main/Screen_Recording_20260605_175154_OCR%2520Demo%2520app-2.mp4
+
 ---
 
 # ✨ Features
