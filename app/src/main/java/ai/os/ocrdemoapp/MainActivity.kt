@@ -182,7 +182,7 @@ class MainActivity : ComponentActivity() {
             lifecycleScope.launch {
                 try {
                     val response = visionApi.detectText(
-                        apiKey = "AIzaSyBE7x7Y7JqGq-kz_0gN5lld7QSgaQuYUUA",
+                        apiKey = "REPLACE_YOUR_KEY_HERE",
                         FirebaseFunctionsUtil.createVisionRequestBodyForApi(bitmapBase64Image)
                     )
                     if (response.isSuccessful) {
